@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\models\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\components\\pages\\grade.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\components\\pages\\grade.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|c:\\users\\osemo\\onedrive - east tennessee state university\\documents\\c# class\\grade tracker\\grade tracker\\services\\gradebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6FA876A-221C-412A-8ADE-6A2534692B15}|Grade Tracker\\Grade Tracker.csproj|solutionrelative:grade tracker\\services\\gradebookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Grade Tracker\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Grade Tracker\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T23:26:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Grade Tracker\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Grade Tracker\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T23:25:35.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grade.razor",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Pages\\Grade.razor",
+              "RelativeDocumentMoniker": "Grade Tracker\\Components\\Pages\\Grade.razor",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Components\\Pages\\Grade.razor",
+              "RelativeToolTip": "Grade Tracker\\Components\\Pages\\Grade.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T23:25:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Program.cs",
+              "RelativeDocumentMoniker": "Grade Tracker\\Program.cs",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Program.cs",
+              "RelativeToolTip": "Grade Tracker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:23:22.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GradeBookService.cs",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Services\\GradeBookService.cs",
+              "RelativeDocumentMoniker": "Grade Tracker\\Services\\GradeBookService.cs",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Services\\GradeBookService.cs",
+              "RelativeToolTip": "Grade Tracker\\Services\\GradeBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:22:06.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "Grade Tracker\\Models\\Assignment.cs",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Assignment.cs",
+              "RelativeToolTip": "Grade Tracker\\Models\\Assignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:20:26.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Grade Tracker\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Course.cs",
+              "RelativeToolTip": "Grade Tracker\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:19:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Students.cs",
+              "RelativeDocumentMoniker": "Grade Tracker\\Models\\Students.cs",
+              "ToolTip": "C:\\Users\\osemo\\OneDrive - East Tennessee State University\\Documents\\c# Class\\Grade Tracker\\Grade Tracker\\Models\\Students.cs",
+              "RelativeToolTip": "Grade Tracker\\Models\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T23:17:46.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
